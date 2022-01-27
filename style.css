@@ -1,0 +1,7 @@
+@media (min-width:768px){
+    .input-group > .form-control, .input-group > .form-select {
+        width: 50%;
+    }
+}
+
+
